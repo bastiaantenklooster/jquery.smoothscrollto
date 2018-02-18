@@ -1,4 +1,4 @@
-#jQuery.smoothScrollTo
+# jQuery.smoothScrollTo
 
 Animated scrolling to any element on the page, 
 with highlighting to indicate the element that was scrolled to.
